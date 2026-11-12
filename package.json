@@ -1,0 +1,13 @@
+{
+  "name": "cosmetics-shop",
+  "version": "2.2.0",
+  "description": "Cosmetics Shop - Beauty & Skincare eCommerce Demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["cosmetics", "ecommerce", "beauty", "store", "demo"],
+  "author": "VWThemes",
+  "license": "GPL-3.0"
+}
